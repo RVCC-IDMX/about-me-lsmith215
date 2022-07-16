@@ -1,0 +1,26 @@
+body {
+    font-family:Coda;
+    background-color: #82F555;
+    color:#0B59FF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:"Alfa Slab One";
+    font-size:30pt;
+}
+
+header {
+    text-align:center;
+}
+
+#hero, footer {
+    text-align:center;
+}
+
+#hero img {
+    width:300px;
+}
+
+#bio {
+    text-align:center;
+}
