@@ -14,7 +14,10 @@ header {
 }
 
 #hero, footer {
+    border: 2px solid #0B59FF;
+    background-color:#BF68EB;
     text-align:center;
+    padding:10px;
 }
 
 #hero img {
