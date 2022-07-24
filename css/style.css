@@ -45,6 +45,7 @@ header {
 
 #gallery {
     border: 2px solid #0B59FF;
+    margin-bottom:2rem;
 }
 
 #gallery img {
@@ -53,4 +54,35 @@ header {
 
 #gallery figure {
     text-align:center;
+}
+
+/* Literature Section */
+#lit {
+    border: 2px solid #0B59FF;
+    margin-bottom:2rem;
+}
+
+#lit div {
+    padding:2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div p {
+    padding: 0.3rem 0;
+    clear:both;
+}
+
+/* Dropcaps */
+
+#lit div p:first-letter {
+    color:red;
+    float:left;
+    font-size:3em;
+    padding:.25em;
+    margin-right:.25em;
+    line-height:.65;
+    border: 4px outset #0B59FF;
+    border-top-left-radius: .2em;
+    border-bottom-right-radius: .2em;
 }
