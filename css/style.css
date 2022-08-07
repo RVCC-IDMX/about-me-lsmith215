@@ -120,6 +120,10 @@ section#hobbies {
     max-width: 100%;
     columns: 20rem;
    }
+
+   figure iframe {
+    width: 100%;
+   }
 } 
 
 /* Large Screen Size */
@@ -142,5 +146,16 @@ section#hobbies {
     figure {
         display: block;
     }
+}
+
+/* Video Section */
+
+#video {
+    border: 2px solid #0B59FF;
+    margin-bottom:2rem;
+}
+
+#video {
+    text-align: center;
 }
 
