@@ -25,6 +25,7 @@ header {
     background-color:#DA70D6;
     text-align:center;
     padding:10px;
+    color: black;
 }
 
 /* Hero Section */
@@ -48,7 +49,7 @@ section#hobbies {
 }
 
 #hobbies ul li:nth-child(even) {
-    color:red;
+    color:#b113ab;
 }
 
 /* Gallery Section */
